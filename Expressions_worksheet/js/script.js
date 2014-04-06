@@ -44,15 +44,29 @@ Create an expression that calculates how much pizza each partygoer will get at t
 is really precise, so this can be a decimal, like 3.52 slices, etc.)
 */
 //Pizza slices
-var numSlicesPerPizza = 12;
+var numSlicesPerPizza = 8;
 //Poeple at the party
-var numPeople = 4;
+var numPeople = 10;
 //Number of pizzas ordered
-var numPizzas = 3;
+var numPizzas = 2;
 //slices per person equation
 var numSlicesPerPerson = numPizzas*numSlicesPerPizza/numPeople;
 //log to the console
 console.log('Each person ate '+ numSlicesPerPerson + ' slices of pizza at the party.');
 
+//Slice of Pie part 2
+/*
+At the pizza party Sparky, the host’s dog is excited, because he gets the leftover pizza after 
+the slices have been divided up evenly among the guests. Assume guests get whole slices, how many 
+whole slices will Sparky feast on?
+Example data set: 10 people, 4 pizzas and 8 slices per pizza will mean each person eats 3 slices and 
+Sparky gets 2 slices. (Note that this is an example, your code should work and give me the accurate 
+results no matter what numbers I put in for those given variables.)
+*/
 
+//Sparky gets equation
+var sparkySlices = numPizzas*numSlicesPerPizza%numPeople;
+
+//log to the console
+console.log('Sparky got ' + sparkySlices + ' slices of pizza.');
 
