@@ -36,7 +36,23 @@ var sparkyAge = dogYears * humanYears;
 //log to the console. 
 console.log('Sparky is ' + humanYears + ' years old which is '+ sparkyAge + ' in dog years.');
 
-
+//Slice of Pie part 1
+/*
+A bunch of students are having a party and somebody ordered pizza. 
+Create an expression that calculates how much pizza each partygoer will get at the party.  
+(Assume all pizzas have the same number of slices and that the person dividing the pizza 
+is really precise, so this can be a decimal, like 3.52 slices, etc.)
+*/
+//Pizza slices
+var numSlicesPerPizza = 12;
+//Poeple at the party
+var numPeople = 4;
+//Number of pizzas ordered
+var numPizzas = 3;
+//slices per person equation
+var numSlicesPerPerson = numPizzas*numSlicesPerPizza/numPeople;
+//log to the console
+console.log('Each person ate '+ numSlicesPerPerson + ' slices of pizza at the party.');
 
 
 
