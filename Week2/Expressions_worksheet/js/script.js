@@ -70,3 +70,22 @@ var sparkySlices = numPizzas*numSlicesPerPizza%numPeople;
 //log to the console
 console.log('Sparky got ' + sparkySlices + ' slices of pizza.');
 
+// Average shopping bill
+/*
+You are budgeting your money for the year and must calculate your 
+average weekly grocery shopping spending over the past five weeks.
+Store the past five grocery totals as a list in an array. Create an 
+expression that will use the items in the array to calculate the 
+average amount spent on groceries.
+Please note: there should only be one given for this problem set, 
+the array holding the five weekly totals.  You should be able to access t
+he array using the array access notation discussed earlier in the course.
+*/
+var shoppingTripArr = [100,50,80,150,200];
+
+var total = ;
+
+var average = ;
+
+console.log('You have spent a total of $'+total+' on groceries over  5 weeks. That is an average of '+average+' per week');
+
