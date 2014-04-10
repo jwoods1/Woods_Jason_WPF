@@ -11,14 +11,28 @@
  Then to every week. Then to every day.
 
 */
+//Ask users for the hourly pay
+var wagePerHour = Number(prompt('How much to you make per Hour?'));
+//Ask the user how many hours they work
 var hours = Number(prompt('How many hours do you work?'));
-var months = 12;
-var weeks = 4;
-var annualSalary = hours*weeks*months;
-alert('You will make '+ annualSalary+' a year!');
+//Ask user how many weeks they work a year
+var weeks = Number(prompt('How many weeks do you work a year?'));
+//Calculate annual salary by multiplying them all together.
+var annualSalary = wagePerHour*hours*weeks;
+//alert and log the results.
+alert('You will make $'+ annualSalary+' a year!');
 console.log('You will make '+ annualSalary+' a year!');
-var age = 'todays Date' - birthDay;
-var dayTellBday = birthDay - 'today';
-console.log('');
 
-alert();
+//Ask user if they work overtime
+var overtimeHours = Number(prompt('How many hours of over time?'));
+//overtime is time and 1/2
+var overtime = 1.5;
+//calculate hours worked overtime with new overtime wage
+var overTimeWage = wagePerHour*overtime;
+console.log('You make $'+overTimeWage+' per hour when working overtime.');
+alert('You make $'+overTimeWage+' per hour when working overtime.');
+//calculate the amount earned for overtime
+
+
+
+
