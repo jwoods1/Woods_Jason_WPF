@@ -29,3 +29,11 @@ var screenArr= [400,700,960];
 //log the different screen sizes
 alert("Some of the more common screen sizes are: "+screenArr[0]+'px, '+screenArr[1]+'px, '+screenArr[2]+'px.');
 console.log("Some of the more common screen sizes are: "+screenArr[0]+'px, '+screenArr[1]+'px, '+screenArr[2]+'px.');
+//what size of image for each screen.
+var smallScreen = screenArr[0]*percentTran;
+var midScreen = screenArr[1]*percentTran;
+var largeScreen = screenArr[2]*percentTran;
+//log the different sizes.
+console.log("You should make images that are "+smallScreen+'px, '+midScreen+'px and '+largeScreen+'px.');
+alert('You should make images that are '+smallScreen+'px, '+midScreen+'px and '+largeScreen+'px.');
+//How much screen size is left after image is place.
