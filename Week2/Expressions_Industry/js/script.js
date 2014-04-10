@@ -1,9 +1,23 @@
 /*
  * Woods Jason
+ * April 9 2014
  * WPF 201404 01
  * Expressions Industry
  */
 // JavaScript
-alert('this is in the js file');
-//this changes the css of your body tag to be green
-document.querySelector("body").style.backgroundColor= "#00FF00";
+
+/*
+     Calculate the size I should make an object to be a percentage on the screen size.
+    */
+
+//var for screen size
+var screenSize = Number(prompt('What size of screen?'));
+//Get image size
+var imgPx = Number(prompt('What is the image pixel size?'));
+//get the size they want the image
+var percent = Number(prompt("What percent of the screen do you want the image?"));
+//Transform var percent
+
+var newImageSize = screenSize*
+
+
