@@ -12,12 +12,15 @@
 
 //var for screen size
 var screenSize = Number(prompt('What size of screen?'));
+console.log("The screenSize is"+screenSize);
+alert(The screenSize is"+screenSize);
 //Get image size
 var imgPx = Number(prompt('What is the image pixel size?'));
 //get the size they want the image
 var percent = Number(prompt("What percent of the screen do you want the image?"));
 //Transform var percent
-
-var newImageSize = screenSize*
+var percentTran = percent*.01;
+var newImageSize = screenSize*percentTran;
+console.log("Change the "+screenSize+'px image to '+newImageSize+"px.");
 
 
