@@ -12,15 +12,19 @@
 
 //var for screen size
 var screenSize = Number(prompt('What size of screen?'));
-console.log("The screenSize is"+screenSize);
-alert(The screenSize is"+screenSize);
+console.log("The screenSize is "+screenSize+'px.');
+alert("The screenSize is" +screenSize+'px');
 //Get image size
 var imgPx = Number(prompt('What is the image pixel size?'));
 //get the size they want the image
 var percent = Number(prompt("What percent of the screen do you want the image?"));
 //Transform var percent
 var percentTran = percent*.01;
+//multiply the sceenSize by the percent.
 var newImageSize = screenSize*percentTran;
 console.log("Change the "+screenSize+'px image to '+newImageSize+"px.");
-
-
+//Scale the image to this size
+var screenArr= [400,700,960];
+//log the different screen sizes
+alert("Some of the more common screen sizes are: "+screenArr[0]+', '+screenArr[1]+', '+screenArr[2]+'.');
+console.log("Some of the more common screen sizes are: "+screenArr[0]+', '+screenArr[1]+', '+screenArr[2]+'.');
