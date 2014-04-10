@@ -31,3 +31,8 @@ var numberS = [100, 300, 600, enteredNum];
 var addNums = numberS[1] + numberS[0] + numberS[2] + numberS[3];
 console.log('The numbers added togehter are:'+addNums);
 alert('The numbers added togehter are:'+addNums);
+
+//divide the added nubmers by the length of the array.
+var divided = addNums / numberS.length;
+console.log('The added Numbers divided by the lenght of the array is '+divided);
+alert('The added Numbers divided by the lenght of the array is '+divided);
