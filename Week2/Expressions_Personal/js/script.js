@@ -32,6 +32,12 @@ var overTimeWage = wagePerHour*overtime;
 console.log('You make $'+overTimeWage+' per hour when working overtime.');
 alert('You make $'+overTimeWage+' per hour when working overtime.');
 //calculate the amount earned for overtime
+var totalOvertime = overTimeWage*overtimeHours;
+//calculate the total of overtime + annual Salary.
+var total = totalOvertime + annualSalary;
+  // log and alert the results.
+console.log('The total wages earned a year with overtime is $'+total);
+alert('The total wages earned a year with overtime is $'+total);
 
 
 
