@@ -17,3 +17,7 @@ var Array = ['OnE WaCkY ThIng!!:>)','TwO WaXy Things!:D',wackyPromt];
 //Tells the length of the array.
 alert('The Array has '+Array.length+' Objects in it!:D');
 console.log('The Array has '+Array.length+' Objects in it!:D');
+
+//list array object wacky!
+alert('Objects are wacky! Here is the list of array objects: '+Array[0]+', '+Array[1]+', '+Array[2]+'.');
+console.log('Objects are wacky! Here is the list of array objects: '+Array[0]+', '+Array[1]+', '+Array[2]+'.');
