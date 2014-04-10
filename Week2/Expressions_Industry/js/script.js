@@ -37,3 +37,6 @@ var largeScreen = screenArr[2]*percentTran;
 console.log("You should make images that are "+smallScreen+'px, '+midScreen+'px and '+largeScreen+'px.');
 alert('You should make images that are '+smallScreen+'px, '+midScreen+'px and '+largeScreen+'px.');
 //How much screen size is left after image is place.
+var leftOverSmal = screenArr[0] - smallScreen;
+console.log('On the Small screen you have '+leftOverSmal+'px left Over to use!');
+alert('On the Small screen you have '+leftOverSmal+'px left Over to use!')
