@@ -20,6 +20,7 @@ if(temp < 75){
      //if it’s greater or equal to 75
      console.log(“We will go to the movies.”);
 }*/
+
 /*
 *************Problem # 1****************************<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>><<<<<<<<<<>>>>>>***********************
 
@@ -38,21 +39,26 @@ Data Sets to Test: (Note that data sets are not the only numbers that should wor
 100C is 212F
 90F is 32.22C
 */
-alert('Problem # 1');
-var degrees = prompt('What is the Current temp number?');
-var Unit = prompt('Is that F? or C?');
-
-if(Unit == 'F'){
-   var degF = degrees;
-   var degC = 5/9 * (degF - 32);
-   console.log('The temperature is '+degF+'F degrees Fahrenheit converted to Celsius it is = '+degC+' C');
-}else{
-   var degC = degrees;
-   var degF = degC * 9 / 5 + 32;
-   console.log('The temperature is '+degC+' C converted to Fahrenheit it is = '+degF+'F');
-}
-
-
+var Problem1 = function(){
+    alert('Problem # 1');
+    console.log('Promblem #1');
+    // Ask for users input for current temp just value
+    var degrees = prompt('What is the Current temp number?');
+    // Ask for the unit of measure
+    var Unit = prompt('Is that F? or C?');
+    //If the Unit is F do F to C conversion then log to console the values
+    if(Unit == 'F'){
+       var degF = degrees;
+       var degC = 5/9 * (degF - 32);
+       console.log('The temperature is '+degF+'F degrees Fahrenheit converted to Celsius it is = '+degC+' C');
+    //If the Unit is C do C to F conversion then log to console the values.
+    }else{
+       var degC = degrees;
+       var degF = degC * 9 / 5 + 32;
+       console.log('The temperature is '+degC+' C converted to Fahrenheit it is = '+degF+'F');
+    }
+    // Problem 1 successful !!!
+};
 /*
 **********Problem #2*******************************<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>***********************
 Check the Login
@@ -68,7 +74,44 @@ Result To Print Out:
 “User not found. Try again.” -if the username does not match
 “Password does not match our records.”  -if the username matches but the password does not
 */
-alert('Problem # 2');
+var Problem2 = function(){
+    alert('Problem # 2');
+    console.log('Promblem #2');
+    // have user create a Username and Password.
+    var cUserName = prompt('Please Create a Username :)');
+    var cPassword = prompt("Please Create a Password ");
+    //Ask user to reenter the Username for varification
+    var userNameLogin = prompt('Please enter your Username');
+    //If statement to check username
+    if(userNameLogin == cUserName){
+        var passLogin = prompt('Please enter your Password');
+        if(passLogin == cPassword){
+            alert('Welcome '+userNameLogin);
+            console.log('Welcome '+userNameLogin);
+        }else{
+            alert("YPassword does not match our records. "+userNameLogin);
+            console.log("Password does not match our records for user "+userNameLogin);
+
+        }
+    }else{
+        alert('User not found. Try again.');
+        var userNameLogin = prompt('Please enter your Username');
+        if(userNameLogin == cUserName){
+            var passLogin = prompt('Please enter your Password');
+            if(passLogin == cPassword){
+                alert('Welcome '+userNameLogin);
+                console.log('Welcome '+userNameLogin);
+            }else{
+                alert("YPassword does not match our records. "+userNameLogin);
+                console.log("Password does not match our records for user "+userNameLogin);
+
+            };
+
+        };
+    };
+};
+
+
 /*
 *************Problem #3******************************<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Movie Ticket Price
@@ -81,5 +124,6 @@ Age of the customer
  Result To Print Out:
 “The ticket price is X”
 */
-alert('Problem # 3');
-
+var Promblem3 = function(){
+    alert('Problem # 3');
+};
