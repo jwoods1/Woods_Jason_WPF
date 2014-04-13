@@ -45,10 +45,11 @@ var Unit = prompt('Is that F? or C?');
 if(Unit == 'F'){
    var degF = degrees;
    var degC = 5/9 * (degF - 32);
-   console.log('The temp '+degF+' F = '+degC);
+   console.log('The temp '+degF+' F = '+degC+' C');
 }else{
    var degC = degrees;
    var degF = degC * 9 / 5 + 32;
+   console.log('the temp '+degC+' C = '+degF+'F');
 }
 
 
