@@ -39,6 +39,17 @@ Data Sets to Test: (Note that data sets are not the only numbers that should wor
 90F is 32.22C
 */
 alert('Problem # 1');
+var degrees = prompt('What is the Current temp number?');
+var Unit = prompt('Is that F? or C?');
+
+if(Unit == 'F'){
+   var degF = degrees;
+   var degC = 5/9 * (degF - 32);
+   console.log('The temp '+degF+' F = '+degC);
+}else{
+   var degC = degrees;
+   var degF = degC * 9 / 5 + 32;
+}
 
 
 /*

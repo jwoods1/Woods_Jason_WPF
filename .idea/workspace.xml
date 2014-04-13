@@ -8,7 +8,7 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397404721035" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397003048513" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397105682180" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397406237833" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 3/Conditionals_worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="57" selection-start="637" selection-end="637" vertical-scroll-proportion="-0.0626703">
+            <state line="47" column="47" selection-start="1484" selection-end="1484" vertical-scroll-proportion="0.6948229">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -410,7 +410,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/Expressions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="51" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0" />
+        <state line="8" column="51" selection-start="213" selection-end="213" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/Expressions_Industry/index.html">
@@ -444,7 +448,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/Expressions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="85" selection-start="1826" selection-end="1826" vertical-scroll-proportion="0.88095236" />
+        <state line="41" column="85" selection-start="1826" selection-end="1826" vertical-scroll-proportion="0.88095236">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Week2/Expressions_Industry/index.html">
@@ -477,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="57" selection-start="637" selection-end="637" vertical-scroll-proportion="-0.0626703">
+        <state line="47" column="47" selection-start="1484" selection-end="1484" vertical-scroll-proportion="0.6948229">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
