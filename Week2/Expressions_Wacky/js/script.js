@@ -29,7 +29,7 @@ var enteredNum = Number(prompt('Enter a number Any Number!'));
 var numberS = [100, 300, 600, enteredNum];
 // add the numbers.
 var addNums = numberS[1] + numberS[0] + numberS[2] + numberS[3];
-console.log('The numbers added togehter are:'+addNums);
+Console.log('The numbers added togehter are:'+addNums);
 alert('The numbers added togehter are:'+addNums);
 
 //divide the added nubmers by the length of the array.
