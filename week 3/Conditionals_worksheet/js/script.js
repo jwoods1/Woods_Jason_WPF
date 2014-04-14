@@ -126,4 +126,22 @@ Age of the customer
 */
 var Promblem3 = function(){
     alert('Problem # 3');
+    // get movie time
+    var movieTime = prompt("What time is the movie? example ( 5pm = 1700)");
+    //get age
+    var age = prompt("how old are you?");
+    //Check to see what time they want to go to movie if between 3pm and 5pm it is $7.00
+    if(movieTime <= 1700 && movieTime >= 1500){
+        alert("The movie ticket will cost $7.00");
+        console.log('The movie ticket will cost $7.00');
+    //Check the age to see if they get the discount price.
+    }else if(age > 55 || age <= 10){
+        alert('The movie ticket will cost $7.00');
+        console.log('The movie ticket will cost $7.00');
+    }else{
+        //they don't get discount to run the price.
+        console.log('The movie will cost $12.00');
+        alert('The movie will cost $12.00');
+    }
+
 };
