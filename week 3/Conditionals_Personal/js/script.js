@@ -31,4 +31,14 @@ var timeTell = bedTime - currentTime;
 //if else to see the time tell or past
 if(timeTell >= 1){
     console.log('We have '+timeTell+'min tell bed time!')
+    // If the time is less then or = 0 tell how much we went over.
+}else if(timeTell <= 0){
+    // if the time is = to 0 then we are right on time.
+    if(timeTell == 0){
+        console.log('You are right on time for going to bed!');
+        //if not then how much did we go over.
+    } else{
+        console.log('We have went past bed time by '+timeTell+'mins! Get to bed!');
+    }
 };
+

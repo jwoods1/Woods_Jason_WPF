@@ -8,8 +8,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397534460304" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397534841447" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397536268766" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397536366603" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397536627633" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397536773504" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="115" selection-start="733" selection-end="733" vertical-scroll-proportion="0.6447368">
+            <state line="43" column="12" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.75">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -570,7 +570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="115" selection-start="733" selection-end="733" vertical-scroll-proportion="0.6447368">
+        <state line="43" column="12" selection-start="1418" selection-end="1418" vertical-scroll-proportion="0.75">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
