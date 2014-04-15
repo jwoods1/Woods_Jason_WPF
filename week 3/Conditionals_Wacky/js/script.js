@@ -1,4 +1,13 @@
-// JavaScript
-alert('this is in the js file');
-//this changes the css of your body tag to be green
-document.querySelector("body").style.backgroundColor= "#00FF00";
+/*
+ Jason Woods
+ 20140413
+ WPF 201404 S01
+ Conditional_Wacky
+ */
+
+/*
+ A ternary
+ An else if
+ A logical operator
+ At least one relational operator other than ==
+    */
