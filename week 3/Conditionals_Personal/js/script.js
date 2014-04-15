@@ -21,7 +21,14 @@
 
 //Having the kids getting ready for bed!
 //promt for the required bed time
-var bedTime =  Number(promt('What time is bed time? 24hr '));
+var bedTime =  Number(prompt('What time is bed time? 24hr '));
 //check for current time
-var currentTime = Number(promt('What is the current time?'));
-
+var currentTime = Number(prompt('What is the current time?'));
+// Tell if it is bed time or not by subtracting the times.
+(currentTime - bedTime >= 0) ? console.log('It is bed time!'): console.log('Not bed time yet!');
+// get how many minutes tell or past bed time
+var timeTell = bedTime - currentTime;
+//if else to see the time tell or past
+if(timeTell >= 1){
+    console.log('We have '+timeTell+'min tell bed time!')
+};
