@@ -18,3 +18,10 @@
  //Continue on with the rest of the code...
 
  */
+
+//Having the kids getting ready for bed!
+//promt for the required bed time
+var bedTime =  Number(promt('What time is bed time? 24hr '));
+//check for current time
+var currentTime = Number(promt('What is the current time?'));
+

@@ -2,19 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Industry/index.html" afterPath="$PROJECT_DIR$/week 3/Conditionals_Industry/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Personal/index.html" afterPath="$PROJECT_DIR$/week 3/Conditionals_Personal/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Wacky/index.html" afterPath="$PROJECT_DIR$/week 3/Conditionals_Wacky/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js" afterPath="$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js" afterPath="$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js" afterPath="$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397534460304" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397534841447" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397449470662" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397535625058" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397535635497" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +32,8 @@
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="3" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="0" column="17" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,7 +41,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="26" selection-start="447" selection-end="447" vertical-scroll-proportion="0.75">
+            <state line="25" column="63" selection-start="672" selection-end="672" vertical-scroll-proportion="0.80263156">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -570,16 +563,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="3" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="0" column="17" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="26" selection-start="447" selection-end="447" vertical-scroll-proportion="0.75">
+        <state line="25" column="63" selection-start="672" selection-end="672" vertical-scroll-proportion="0.80263156">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
