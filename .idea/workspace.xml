@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js" afterPath="$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js" afterPath="$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397534460304" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397706006217" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397534841447" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397537194551" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397537356075" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397706656216" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +32,7 @@
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="17" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="106" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.7236842">
+            <state line="13" column="14" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -49,10 +40,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="17" selection-start="66" selection-end="166" vertical-scroll-proportion="0.0">
+            <state line="21" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.8246073">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -90,9 +81,9 @@
         <option value="$PROJECT_DIR$/week 3/Conditionals_Industry/index.html" />
         <option value="$PROJECT_DIR$/week 3/Conditionals_Personal/index.html" />
         <option value="$PROJECT_DIR$/week 3/Conditionals_Wacky/index.html" />
-        <option value="$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js" />
         <option value="$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js" />
+        <option value="$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js" />
       </list>
     </option>
   </component>
@@ -128,6 +119,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,7 +206,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Conditionals_Personal" />
+              <option name="myItemId" value="Conditionals_Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -234,7 +226,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,11 +362,10 @@
     <frame x="20" y="22" width="1260" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32561985" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32454696" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497979" sideWeight="0.6743802" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497979" sideWeight="0.67545307" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -385,6 +375,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -494,83 +485,61 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Wacky/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="7" selection-start="49" selection-end="49" vertical-scroll-proportion="0.15789473">
-          <folding />
-        </state>
+        <state line="4" column="7" selection-start="49" selection-end="49" vertical-scroll-proportion="0.15789473" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_worksheet/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="26" selection-start="319" selection-end="319" vertical-scroll-proportion="0.46348315">
-          <folding />
-        </state>
+        <state line="11" column="26" selection-start="319" selection-end="319" vertical-scroll-proportion="0.46348315" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Industry/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="146" column="18" selection-start="5658" selection-end="5658" vertical-scroll-proportion="1.318801">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1620#1878#0" expanded="false" />
-            <element signature="e#1882#2048#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="146" column="18" selection-start="5658" selection-end="5658" vertical-scroll-proportion="1.318801" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="26" selection-start="285" selection-end="285" vertical-scroll-proportion="-7.5">
-          <folding />
-        </state>
+        <state line="12" column="26" selection-start="285" selection-end="285" vertical-scroll-proportion="-7.5" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="65" selection-start="285" selection-end="285" vertical-scroll-proportion="0.505618">
-          <folding />
-        </state>
+        <state line="12" column="65" selection-start="285" selection-end="285" vertical-scroll-proportion="0.505618" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="29" selection-start="107" selection-end="107" vertical-scroll-proportion="0.16853933">
-          <folding />
+        <state line="4" column="29" selection-start="107" selection-end="107" vertical-scroll-proportion="0.16853933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="37" selection-start="1346" selection-end="1346" vertical-scroll-proportion="1.6578947" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="14" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="17" selection-start="66" selection-end="166" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Industry/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week 3/Conditionals_Personal/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="106" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.7236842">
+        <state line="21" column="0" selection-start="408" selection-end="408" vertical-scroll-proportion="0.8246073">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
