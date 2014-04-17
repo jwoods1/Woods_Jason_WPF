@@ -27,7 +27,8 @@ if(troubleshoot == 'yes'){
          oops = Number(prompt("You must enter a reading of omhs"));
         ohms = oops;
     };
-}else{
+
+}else if(troubleshoot == 'no'){
     alert("Well I'm glade everything works!");
     console.log("Well I'm glade everything works!");
 }
