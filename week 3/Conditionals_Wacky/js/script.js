@@ -19,5 +19,12 @@ if(dogName == ''){
     Alert('You must enter a dogs name!');
     dogName = prompt("What is your dogs name?");
 };
-
-
+//get current time
+var curTime = Number(prompt("What is the current time?"));
+//if statemtent to see if prompt is blank
+if(curTime == ''){
+    Alert('you must enter a Time');
+    curTime = Number(prompt("What is the current time?"));
+}
+//Get the time interval for potty training
+var pottyTime = Number(prompt("How often do you want to take out "+dogName+'?'));
