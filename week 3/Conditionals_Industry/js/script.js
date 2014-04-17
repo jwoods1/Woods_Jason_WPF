@@ -19,21 +19,30 @@ if(troubleshoot == ''){
   var oops = prompt("You have to answer yes or no if you need to troubleshoot");
   troubleshoot = oops;
 };
+//If yes run the Troubleshooter
 if(troubleshoot == 'yes'){
     //Get the ohms of a wire.
-    var ohms = Number(prompt("What is the current omhs of wire 10?"));
+    var ohms = Number(prompt("What is the current ohms of wire 10?"));
 // if ohms is blank
     if(ohms == ''){
-         oops = Number(prompt("You must enter a reading of omhs"));
+         oops = Number(prompt("You must enter a reading of ohms"));
         ohms = oops;
     };
     //get wire length for troubleshooting
     var wireLength = Number(prompt("What is the length of the wire you are checking?"));
     // if length is blank ask again
     if(wireLength == ''){
-        var oopsL = Number(prompt('You must enter a length')});
+        var oopsL = Number(prompt('You must enter a length'));
         wireLength = oopsL;
     };
+    //get the length ohms to compare to reading
+     var wireLenthOhms = wireLength * .01;
+     if(ohms > wireLenthOhms && ohms != 1000){
+
+     }else if (ohms <= wireLengthOhms || ohms == 0 ){
+
+     }
+
 
 
 }else if(troubleshoot == 'no'){
