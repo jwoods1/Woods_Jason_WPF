@@ -36,11 +36,13 @@ if(troubleshoot == 'yes'){
         wireLength = oopsL;
     };
     //get the length ohms to compare to reading
-     var wireLenthOhms = wireLength * .01;
-     if(ohms > wireLenthOhms && ohms != 1000){
-        console.log('With a ohms reading of '+ohms+'ohms and a flat ohms rate of '+wireLenthOhms+'ohms you seem to have an open!');
+     var wireLengthOhms = wireLength * .01;
+     if(ohms > wireLengthOhms && ohms != 1000){
+        console.log('With a ohms reading of '+ohms+'ohms and a flat ohms rate of '+wireLengthOhms+'ohms you seem to have an open!');
      }else if (ohms <= wireLengthOhms || ohms == 0 ){
-
+        console.log('With a '+ohms+'ohms reading you seem to have a short.');
+     }else{
+         console.log('The wire seems to be fine something else is the problem.');
      }
 
 
