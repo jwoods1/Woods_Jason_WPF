@@ -27,6 +27,14 @@ if(troubleshoot == 'yes'){
          oops = Number(prompt("You must enter a reading of omhs"));
         ohms = oops;
     };
+    //get wire length for troubleshooting
+    var wireLength = Number(prompt("What is the length of the wire you are checking?"));
+    // if length is blank ask again
+    if(wireLength == ''){
+        var oopsL = Number(prompt('You must enter a length')});
+        wireLength = oopsL;
+    };
+
 
 }else if(troubleshoot == 'no'){
     alert("Well I'm glade everything works!");
