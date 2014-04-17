@@ -43,12 +43,11 @@ if(troubleshoot == 'yes'){
      //Else check if it is less then or equal to or equal to 0
      }else if (ohms <= wireLengthOhms || ohms == 0 ){
         console.log('With a '+ohms+'ohms reading you seem to have a short.');
+     // if none are true then run this.
      }else{
          console.log('The wire seems to be fine something else is the problem.');
      }
-
-
-
+// if no then run this.
 }else if(troubleshoot == 'no'){
     alert("Well I'm glade everything works!");
     console.log("Well I'm glade everything works!");
