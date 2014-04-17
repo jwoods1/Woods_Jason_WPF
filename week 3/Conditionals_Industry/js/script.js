@@ -38,7 +38,7 @@ if(troubleshoot == 'yes'){
     //get the length ohms to compare to reading
      var wireLenthOhms = wireLength * .01;
      if(ohms > wireLenthOhms && ohms != 1000){
-
+        console.log('With a ohms reading of '+ohms+'ohms and a flat ohms rate of '+wireLenthOhms+'ohms you seem to have an open!');
      }else if (ohms <= wireLengthOhms || ohms == 0 ){
 
      }
