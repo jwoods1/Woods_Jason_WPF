@@ -55,3 +55,5 @@ var stung = function(p){
     // return the value
     return beeToKill;
 };
+//prompt the user for pounds.
+var VictimsWeight = Number(prompt("How much does the victim weight (in pounds)"));
