@@ -47,4 +47,11 @@ console.log("The circumference of the circle is "+cir);
  Result to print to the console:
  “It takes X bee stings to kill this animal.*/
 
-// c
+// create the function with parameter for victims weight
+
+var stung = function(p){
+    // calculation for bees to pounds
+    var beeToKill = 8.666666667 * p ;
+    // return the value
+    return beeToKill;
+};
