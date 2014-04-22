@@ -59,3 +59,5 @@ var stung = function(p){
 var VictimsWeight = Number(prompt("How much does the victim weight (in pounds)"));
 // create a global var to hold the value of the function
 var beesNeeded = stung(VictimsWeight);
+// added console log
+console.log("It takes "+beesNeeded+" bee stings to kill this animal.");
