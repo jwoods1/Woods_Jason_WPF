@@ -27,4 +27,9 @@ var circumference = function(r){
     var round = 2 * 3.14 * r;
     // return result
     return round;
-}
+};
+// get radius
+var radius = Number(prompt("What is the radius?"));
+// Put the function inside of a var to hold the value.
+var cir = circumference(radius);
+console.log(cir);
