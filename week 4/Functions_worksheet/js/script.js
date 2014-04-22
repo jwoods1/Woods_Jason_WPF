@@ -22,3 +22,7 @@
 // Problem #1   Circumference
 
 // Create function with parameters for equation.
+var circumference = function(r){
+    // circumference equation
+    var round = 2 * 3.14 * r;
+}

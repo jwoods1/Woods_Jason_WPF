@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 4/Functions_worksheet/index.html" afterPath="$PROJECT_DIR$/week 4/Functions_worksheet/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/week 4/Functions_worksheet/js/script.js" afterPath="$PROJECT_DIR$/week 4/Functions_worksheet/js/script.js" />
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398137345037" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398137385925" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1397710585301" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398138040394" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_worksheet/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="49" selection-start="511" selection-end="511" vertical-scroll-proportion="0.9031414">
+            <state line="27" column="1" selection-start="606" selection-end="606" vertical-scroll-proportion="0.7643979">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -88,7 +87,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="466" />
+    <option name="x" value="175" />
     <option name="y" value="22" />
     <option name="width" value="1260" />
     <option name="height" value="725" />
@@ -313,7 +312,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="466" y="22" width="1260" height="725" extended-state="0" />
+    <frame x="175" y="22" width="1260" height="725" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32454696" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -497,7 +496,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="49" selection-start="511" selection-end="511" vertical-scroll-proportion="0.9031414">
+        <state line="27" column="1" selection-start="606" selection-end="606" vertical-scroll-proportion="0.7643979">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
