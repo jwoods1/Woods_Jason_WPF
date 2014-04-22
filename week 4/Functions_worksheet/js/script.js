@@ -57,3 +57,5 @@ var stung = function(p){
 };
 //prompt the user for pounds.
 var VictimsWeight = Number(prompt("How much does the victim weight (in pounds)"));
+// create a global var to hold the value of the function
+var beesNeeded = stung(VictimsWeight);
