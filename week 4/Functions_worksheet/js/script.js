@@ -32,4 +32,4 @@ var circumference = function(r){
 var radius = Number(prompt("What is the radius?"));
 // Put the function inside of a var to hold the value.
 var cir = circumference(radius);
-console.log(cir);
+console.log("The circumference of the circle is "+cir);
