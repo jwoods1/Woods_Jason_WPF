@@ -34,8 +34,8 @@ var leave = function(tw,re){
     }else{
         timeOff = "you have not earned any time off :(";
         return timeOff;
-    };
-}
+    }
+};
 
 var timeWorked = Number(prompt("How much time have your worked?"));
 var leaveEarn = Number(prompt("How much leave do you earn per pay period or 80 hrs?"));
