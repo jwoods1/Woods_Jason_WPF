@@ -8,13 +8,13 @@
 
 /*
  Each of the following requirements must exist in at least one of the 3 subprojects:
- A ternary
+ 1 A ternary
  An else if
- An anonymous function
+ 1 An anonymous function
  A normal "named" function
  An expression with two arithmetic operators
  A function with three parameters.
- At least one logical operator
+ 1 At least one logical operator
 
  */
 
@@ -38,8 +38,8 @@ var leave = function(tw,re){
         return timeOff;
     }
 };
-
+ // prompt to get input form user.
 var timeWorked = Number(prompt("How much time have your worked?"));
 var leaveEarn = Number(prompt("How much leave do you earn per pay period or 80 hrs?"));
-
+//log the amount calc.
 console.log('Leave balance = '+leave(timeWorked,leaveEarn)+' hrs.');

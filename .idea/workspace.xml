@@ -7,7 +7,7 @@
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398376185673" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398376449859" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306477544" ignored="false" />
     <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398376102417" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="61" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.7736842">
+            <state line="16" column="3" selection-start="316" selection-end="316" vertical-scroll-proportion="0.45789474">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -429,7 +429,11 @@
       <created>1398376188494</created>
       <updated>1398376188494</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="fixed console.log to output correctly.">
+      <created>1398376452021</created>
+      <updated>1398376452021</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -497,7 +501,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed semicolons ; :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed console.log to output correctly." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -511,7 +515,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="added hours months weeks and a alert to get the results of annualSalary" />
     <MESSAGE value="added overtime calculation to personal wages" />
     <MESSAGE value="added total wage calculation to Personal Expressions&#10;" />
     <MESSAGE value="Added Industry expression variables." />
@@ -536,6 +539,7 @@
     <MESSAGE value="added ternary and if to find out payPeriod and time Off vars." />
     <MESSAGE value="fixed returns and calls on ternary ." />
     <MESSAGE value="fixed semicolons ; :)" />
+    <MESSAGE value="fixed console.log to output correctly." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -644,7 +648,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="61" selection-start="1244" selection-end="1244" vertical-scroll-proportion="0.7736842">
+        <state line="16" column="3" selection-start="316" selection-end="316" vertical-scroll-proportion="0.45789474">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
