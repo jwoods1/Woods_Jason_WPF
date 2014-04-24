@@ -26,8 +26,11 @@ var functionIdeas = function(n){
     var Stress;
     if(n >= 1 && n < 5){
         //tell the stress level by # of function to create.
-      Stress = "You will have a slightly stressed time with creating your "+n+" functions";
+        Stress = "You will have a slightly stressed time with creating your "+n+" functions";
+        return Stress;
     }else if(n > 5){
         Stress = " Oh my the stress is all most unbearable "
+    }else{
+        Stress = "Man you have all the time in the world with out the need to create functions :) !";
     }
 }
