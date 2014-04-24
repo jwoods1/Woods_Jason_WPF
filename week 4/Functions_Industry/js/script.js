@@ -17,3 +17,10 @@
  At least one logical operator
 
  */
+
+// function to calculate time off earned at job.
+//anonymous function
+//tw = time worked, te = amount of time is earned.
+var leave = function(tw,te){
+
+}

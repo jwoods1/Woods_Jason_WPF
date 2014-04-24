@@ -7,7 +7,7 @@
 
 
 /*
- Each of the following requirements must exist in at least one of the 3 subprojects:
+ Each of the following requirements must exist in at least one of the 3 sub projects:
  A ternary
  An else if
  An anonymous function
@@ -17,3 +17,6 @@
  At least one logical operator
 
  */
+
+//anonymous Function
+//
