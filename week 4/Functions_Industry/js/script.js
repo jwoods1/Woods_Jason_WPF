@@ -20,7 +20,17 @@
 
 // function to calculate time off earned at job.
 //anonymous function
-//tw = time worked, te = amount of time is earned.
-var leave = function(tw,te){
-
+//tw = time worked, re = amount of time off is earned per pay period.
+var leave = function(tw,re){
+    // set vars to store values.
+    var timeOff;
+    var payPeriods;
+    // if ternary to see if you worked for a payPeriod.
+    (tw >= 80) ?  payPeriods = tw / 80 : payPeriods = 0;
+    // calculate time Off.
+    if(payPeriods != 0){
+        timeOff = payPeriods * re;
+    }else{
+        timeOff = "you have not earned any time off :(";
+    };
 }
