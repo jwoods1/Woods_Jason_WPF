@@ -7,9 +7,9 @@
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306524489" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398310613662" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306477544" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398310481543" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398311288470" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="5" selection-start="633" selection-end="633" vertical-scroll-proportion="0.9868421">
+            <state line="29" column="42" selection-start="748" selection-end="748" vertical-scroll-proportion="0.80263156">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -400,15 +400,19 @@
       <created>1398306528967</created>
       <updated>1398306528967</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="added function to personal functions with if">
+      <created>1398310624050</created>
+      <updated>1398310624050</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1260" height="725" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32561985" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32561985" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497979" sideWeight="0.6743802" order="0" side_tool="false" content_ui="combo" />
@@ -468,7 +472,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Main folders for week 4 main assignment." />
+    <option name="LAST_COMMIT_MESSAGE" value="added function to personal functions with if" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -497,6 +501,7 @@
     <MESSAGE value="divided the numbers by the array length" />
     <MESSAGE value="Added Directories for week #3 Assignment !" />
     <MESSAGE value="Added Main folders for week 4 main assignment." />
+    <MESSAGE value="added function to personal functions with if" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -605,7 +610,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="5" selection-start="633" selection-end="633" vertical-scroll-proportion="0.9868421">
+        <state line="29" column="42" selection-start="748" selection-end="748" vertical-scroll-proportion="0.80263156">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
