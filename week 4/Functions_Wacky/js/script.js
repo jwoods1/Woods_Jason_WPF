@@ -36,3 +36,5 @@ var functionIdeas = function(n){
         return Stress;
     }
 }
+
+var numberOf = prompt("How many functions do you have to create today?");
