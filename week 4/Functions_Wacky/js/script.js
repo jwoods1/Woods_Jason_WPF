@@ -22,5 +22,12 @@
 // create anonymous function.
 var functionIdeas = function(n){
      // take the n = number of functions
+    //create a var to store value in.
+    var Stress;
+    if(n >= 1 && n < 5){
+        //tell the stress level by # of function to create.
+      Stress = "You will have a slightly stressed time with creating your "+n+" functions";
+    }else if(n > 5){
 
+    }
 }
