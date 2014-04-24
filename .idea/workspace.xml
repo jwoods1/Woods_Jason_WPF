@@ -7,7 +7,7 @@
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398378156245" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398378617311" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306477544" ignored="false" />
     <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398378492625" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="6" selection-start="792" selection-end="792" vertical-scroll-proportion="0.7631579">
+            <state line="30" column="60" selection-start="852" selection-end="852" vertical-scroll-proportion="0.7631579">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -430,7 +430,11 @@
       <created>1398378160190</created>
       <updated>1398378160190</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="added a if else with stress var">
+      <created>1398378621555</created>
+      <updated>1398378621555</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -498,7 +502,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added wacky function." />
+    <option name="LAST_COMMIT_MESSAGE" value="added a if else with stress var" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -512,7 +516,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="Added Industry expression variables." />
     <MESSAGE value="Added logs and alerts to industry expressions" />
     <MESSAGE value="added screen size array." />
     <MESSAGE value="Fixed some spacing issues and added a alert to the image size." />
@@ -537,6 +540,7 @@
     <MESSAGE value="fixed console.log to output correctly." />
     <MESSAGE value="added comment to log and prompts." />
     <MESSAGE value="added wacky function." />
+    <MESSAGE value="added a if else with stress var" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -645,7 +649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="6" selection-start="792" selection-end="792" vertical-scroll-proportion="0.7631579">
+        <state line="30" column="60" selection-start="852" selection-end="852" vertical-scroll-proportion="0.7631579">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

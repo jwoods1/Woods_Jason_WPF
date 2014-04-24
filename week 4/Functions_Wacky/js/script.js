@@ -28,6 +28,6 @@ var functionIdeas = function(n){
         //tell the stress level by # of function to create.
       Stress = "You will have a slightly stressed time with creating your "+n+" functions";
     }else if(n > 5){
-
+        Stress = " Oh my the stress is all most unbearable "
     }
 }
