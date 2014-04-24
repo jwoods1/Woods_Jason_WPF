@@ -7,9 +7,9 @@
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398374226771" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398375162010" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306477544" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398375104027" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398376102417" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="1" selection-start="861" selection-end="861" vertical-scroll-proportion="0.7631579">
+            <state line="32" column="39" selection-start="857" selection-end="857" vertical-scroll-proportion="0.4473684">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -417,7 +417,11 @@
       <created>1398374234330</created>
       <updated>1398374234330</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="added ternary and if to find out payPeriod and time Off vars.">
+      <created>1398375166535</created>
+      <updated>1398375166535</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -485,7 +489,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added industry function to industry js." />
+    <option name="LAST_COMMIT_MESSAGE" value="added ternary and if to find out payPeriod and time Off vars." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -521,6 +525,7 @@
     <MESSAGE value="functional tested with personal functions." />
     <MESSAGE value="refactored personal by removing var for return." />
     <MESSAGE value="added industry function to industry js." />
+    <MESSAGE value="added ternary and if to find out payPeriod and time Off vars." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -629,7 +634,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_Industry/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="1" selection-start="861" selection-end="861" vertical-scroll-proportion="0.7631579">
+        <state line="32" column="39" selection-start="857" selection-end="857" vertical-scroll-proportion="0.4473684">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

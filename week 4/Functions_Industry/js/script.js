@@ -24,13 +24,20 @@
 var leave = function(tw,re){
     // set vars to store values.
     var timeOff;
-    var payPeriods;
+    var payPeriods = tw / 80;
     // if ternary to see if you worked for a payPeriod.
-    (tw >= 80) ?  payPeriods = tw / 80 : payPeriods = 0;
+    (payPeriods >= 1) ? alert('You have worked '+payPeriods+' pay Periods:)') : payPeriods = 0;
     // calculate time Off.
     if(payPeriods != 0){
         timeOff = payPeriods * re;
+        return timeOff;
     }else{
         timeOff = "you have not earned any time off :(";
+        return timeOff;
     };
 }
+
+var timeWorked = Number(prompt("How much time have your worked?"));
+var leaveEarn = Number(prompt("How much leave do you earn per pay period or 80 hrs?"));
+
+console.log(leave(timeWorked,leaveEarn));
