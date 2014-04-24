@@ -25,10 +25,14 @@ function homeWorkTime(time,assignments,work){
     if(timeLeft >= 1 ){
         //see how much time is needed.
         var timeNeeded = assignments * 1.5;
-        var totalT = timeNeeded - timeLeft;
-
-        return totalT;
+        // see what time is left over after homework.
+        var totalT = timeLeft - timeNeeded;
+        var timeLeftOver = "there is "+totalT+" hrs left over after homework is complete";
+        return timeLeftOver;
     }else{
+        var notEnoughTime = "There is not enought time it will require "+timeLeft+" more hours in the day.";
         return timeLeft;
     }
 }
+var homework = homeWorkTime(18,3,10);
+console.log(homework);

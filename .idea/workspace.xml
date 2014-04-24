@@ -7,9 +7,9 @@
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398311314519" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398311404390" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306477544" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398311288470" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398311900665" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="38" selection-start="672" selection-end="672" vertical-scroll-proportion="0.9263158">
+            <state line="32" column="108" selection-start="1054" selection-end="1054" vertical-scroll-proportion="1.0842105">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -408,7 +408,11 @@
       <created>1398311320806</created>
       <updated>1398311320806</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="added comments.">
+      <created>1398311414112</created>
+      <updated>1398311414112</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -476,7 +480,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added function to personal functions with if and else. added returns" />
+    <option name="LAST_COMMIT_MESSAGE" value="added comments." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -507,6 +511,7 @@
     <MESSAGE value="Added Main folders for week 4 main assignment." />
     <MESSAGE value="added function to personal functions with if" />
     <MESSAGE value="added function to personal functions with if and else. added returns" />
+    <MESSAGE value="added comments." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -615,7 +620,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="38" selection-start="672" selection-end="672" vertical-scroll-proportion="0.9263158">
+        <state line="32" column="108" selection-start="1054" selection-end="1054" vertical-scroll-proportion="1.0842105">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
