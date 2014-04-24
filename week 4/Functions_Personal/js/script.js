@@ -21,7 +21,9 @@
 function homeWorkTime(time,assignments,work){
     // take the time in a day that you don't sleep and subtract work to get time left.
     var timeLeft = time - work;
+    // see if it is enough time.
     if(timeLeft >= 1 ){
+        //see how much time is needed.
         var timeNeeded = assignments * 1.5;
         var totalT = timeNeeded - timeLeft;
 
@@ -29,5 +31,4 @@ function homeWorkTime(time,assignments,work){
     }else{
         return timeLeft;
     }
-
 }
