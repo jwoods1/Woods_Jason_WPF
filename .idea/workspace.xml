@@ -7,9 +7,9 @@
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398378888810" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398379082733" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306477544" ignored="false" />
-    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398379036009" ignored="false" />
+    <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398379115118" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="3" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.7631579">
+            <state line="26" column="21" selection-start="615" selection-end="615" vertical-scroll-proportion="0.28947368">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -450,7 +450,11 @@
       <created>1398378892395</created>
       <updated>1398378892395</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Fixed strings :D">
+      <created>1398379087595</created>
+      <updated>1398379087595</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -518,7 +522,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added var to get input numberOf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed strings :D" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -532,7 +536,6 @@
     <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
-    <MESSAGE value="added a small screen left over var that subtracts the values to tell remaining screen." />
     <MESSAGE value="Added alert with array length to wacky expressions" />
     <MESSAGE value="listed out array objects in wacky" />
     <MESSAGE value="added array of number and added them together" />
@@ -557,6 +560,7 @@
     <MESSAGE value="added return to if on wacky." />
     <MESSAGE value="added return to Else if and else on wacky." />
     <MESSAGE value="Added var to get input numberOf" />
+    <MESSAGE value="Fixed strings :D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -665,7 +669,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="3" selection-start="1264" selection-end="1264" vertical-scroll-proportion="0.7631579">
+        <state line="26" column="21" selection-start="615" selection-end="615" vertical-scroll-proportion="0.28947368">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

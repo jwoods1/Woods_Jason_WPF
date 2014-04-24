@@ -24,14 +24,14 @@ var functionIdeas = function(n){
      // take the n = number of functions
     //create a var to store value in.
     var Stress;
-    if(n >= 1 && n < 5){
+    if(n >= 1 && n <= 5){
         //tell the stress level by # of function to create.
         Stress = "You will have a slightly stressed time with creating your "+n+" functions";
         // return value created
         return Stress;
     }else if(n > 5){
         // stress increase
-        Stress = " Oh my "+n+" of functions! The stress is all most unbearable :(";
+        Stress = " Oh my "+n+" functions! The stress is all most unbearable :(";
         // return value created
         return Stress;
     }else{
@@ -42,3 +42,5 @@ var functionIdeas = function(n){
 }
 
 var numberOf = prompt("How many functions do you have to create today?");
+
+console.log(functionIdeas(numberOf));
