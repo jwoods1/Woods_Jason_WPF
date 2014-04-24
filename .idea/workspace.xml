@@ -7,7 +7,7 @@
     </list>
     <ignored path="ProblemSolving.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398311934103" ignored="false" />
+    <file path="/Dummy.txt" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398312574302" ignored="false" />
     <file path="/index.html" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398306477544" ignored="false" />
     <file path="/script.js" changelist="94cc8bbb-e091-4db5-a0eb-73a7b1e2eaf2" time="1398312406903" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/week 4/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="24" selection-start="336" selection-end="336" vertical-scroll-proportion="-0.3026316">
+            <state line="38" column="112" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.7236842">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -416,7 +416,11 @@
       <created>1398311938625</created>
       <updated>1398311938625</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="functional tested with personal functions.">
+      <created>1398312581597</created>
+      <updated>1398312581597</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -484,7 +488,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="added var for strings." />
+    <option name="LAST_COMMIT_MESSAGE" value="functional tested with personal functions." />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -517,6 +521,7 @@
     <MESSAGE value="added function to personal functions with if and else. added returns" />
     <MESSAGE value="added comments." />
     <MESSAGE value="added var for strings." />
+    <MESSAGE value="functional tested with personal functions." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -625,7 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week 4/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="24" selection-start="336" selection-end="336" vertical-scroll-proportion="-0.3026316">
+        <state line="38" column="112" selection-start="1263" selection-end="1263" vertical-scroll-proportion="0.7236842">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

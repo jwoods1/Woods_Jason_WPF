@@ -29,11 +29,9 @@ function homeWorkTime(time,assignments,work){
     if(timeLeft > 1 && timeNeeded <=timeLeft){
         // see what time is left over after homework.
         var totalT = timeLeft - timeNeeded;
-        var timeLeftOver = "there is "+totalT+" hrs left over after homework is complete";
-        return timeLeftOver;
+        return "there is "+totalT+" hrs left over after homework is complete";
     }else{
-        var notEnoughTime = "There is not enought time it will require "+timeLeft+" more hours in the day.";
-        return notEnoughTime;
+        return "There is not enough time it will require "+timeLeft+" more hours in the day.";
     }
 }
 
