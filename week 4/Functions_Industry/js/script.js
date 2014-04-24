@@ -30,9 +30,11 @@ var leave = function(tw,re){
     // calculate time Off.
     if(payPeriods != 0){
         timeOff = payPeriods * re;
+        // return if time off
         return timeOff;
     }else{
-        timeOff = "you have not earned any time off :(";
+        // return string if no time off earned.
+        timeOff = "you have not earned any";
         return timeOff;
     }
 };
@@ -40,4 +42,4 @@ var leave = function(tw,re){
 var timeWorked = Number(prompt("How much time have your worked?"));
 var leaveEarn = Number(prompt("How much leave do you earn per pay period or 80 hrs?"));
 
-console.log(leave(timeWorked,leaveEarn));
+console.log('Leave balance = '+leave(timeWorked,leaveEarn)+' hrs.');
