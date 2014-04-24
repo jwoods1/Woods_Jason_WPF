@@ -30,7 +30,9 @@ var functionIdeas = function(n){
         return Stress;
     }else if(n > 5){
         Stress = " Oh my the stress is all most unbearable "
+        return Stress;
     }else{
         Stress = "Man you have all the time in the world with out the need to create functions :) !";
+        return Stress;
     }
 }
